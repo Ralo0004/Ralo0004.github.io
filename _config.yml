@@ -1,0 +1,6 @@
+title: "Mi Blog Personal"
+email: "juanpr4@gmail.com"
+description: "Un blog, simple, no hay mucho que decir ni que explicar. Atención! hay secciones"
+baseurl: "" # dejar vacío para GitHub Pages
+url: "https://Ralo0004.github.io"
+remote_theme: Ralo0004/Fresh
