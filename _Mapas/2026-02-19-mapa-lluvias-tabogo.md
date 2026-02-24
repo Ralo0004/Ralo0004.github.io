@@ -7,7 +7,7 @@ date: 2026-02-19
 
 Aquí puedo poner texto, imágenes y código.
 
-![Foto del proyecto](imagenes/proyecto.png)
+![Foto del proyecto](imagenes/500x500-000000-80-0-0.jpg)
 
 Ejemplo de código R:
 
@@ -25,4 +25,4 @@ date: 2026-02-24
 
 Este es un post solo con texto.
 
-![Otra imagen](imagenes/foto2.png)
+![Otra imagen](imagenes/500x500-000000-80-0-0.jpg)
